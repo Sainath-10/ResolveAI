@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Generated vector store and runtime state
+chroma_db/
+data/escalations.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Tooling and OS
+.mypy_cache/
+.ruff_cache/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

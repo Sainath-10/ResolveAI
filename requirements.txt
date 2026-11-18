@@ -1,0 +1,11 @@
+# Requires Python 3.11 or newer
+langgraph>=0.2
+langchain>=0.3
+langchain-anthropic>=0.3
+langchain-text-splitters>=0.3
+langsmith>=0.1
+python-dotenv>=1.0
+chromadb>=0.5
+streamlit>=1.39
+pandas>=2.0
+pymupdf>=1.24
