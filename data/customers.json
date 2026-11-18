@@ -1,0 +1,81 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "name": "Maya Chen",
+    "email": "maya.chen@example.com",
+    "tier": "Gold",
+    "account_status": "active",
+    "joined_at": "2023-04-12",
+    "phone": "+1-555-0101",
+    "recent_activity": [
+      {"type": "login", "detail": "Signed in from Chrome on macOS", "at": "2026-11-18T09:12:00Z"},
+      {"type": "order", "detail": "Order ORD-2041 delivered", "at": "2026-10-28T16:40:00Z"},
+      {"type": "ticket", "detail": "Reported a duplicate charge for ORD-2041", "at": "2026-11-18T10:05:00Z"}
+    ]
+  },
+  {
+    "customer_id": "CUST-1002",
+    "name": "Daniel Okafor",
+    "email": "daniel.okafor@example.com",
+    "tier": "Premium",
+    "account_status": "active",
+    "joined_at": "2022-09-01",
+    "phone": "+1-555-0102",
+    "recent_activity": [
+      {"type": "order", "detail": "Order ORD-2042 delivered damaged", "at": "2026-11-14T11:20:00Z"},
+      {"type": "support", "detail": "Opened a damaged-item claim for ORD-2042", "at": "2026-11-15T08:45:00Z"}
+    ]
+  },
+  {
+    "customer_id": "CUST-1003",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "tier": "Standard",
+    "account_status": "locked",
+    "joined_at": "2024-01-19",
+    "phone": "+1-555-0103",
+    "recent_activity": [
+      {"type": "security", "detail": "Account locked after five failed sign-in attempts", "at": "2026-11-18T07:30:00Z"},
+      {"type": "order", "detail": "Order ORD-2043 is in transit", "at": "2026-11-16T13:00:00Z"}
+    ]
+  },
+  {
+    "customer_id": "CUST-1004",
+    "name": "Liam Novak",
+    "email": "liam.novak@example.com",
+    "tier": "Standard",
+    "account_status": "active",
+    "joined_at": "2023-11-03",
+    "phone": "+1-555-0104",
+    "recent_activity": [
+      {"type": "billing", "detail": "Plus subscription payment failed on 2026-11-10", "at": "2026-11-10T06:00:00Z"},
+      {"type": "order", "detail": "Order ORD-2044 is processing", "at": "2026-11-16T18:22:00Z"}
+    ]
+  },
+  {
+    "customer_id": "CUST-1005",
+    "name": "Sofia Rossi",
+    "email": "sofia.rossi@example.com",
+    "tier": "Gold",
+    "account_status": "active",
+    "joined_at": "2021-06-30",
+    "phone": "+1-555-0105",
+    "recent_activity": [
+      {"type": "order", "detail": "Order ORD-2045 delivered", "at": "2026-11-12T09:15:00Z"},
+      {"type": "subscription", "detail": "Cancelled Plus renewal at period end", "at": "2026-11-05T12:00:00Z"}
+    ]
+  },
+  {
+    "customer_id": "CUST-1006",
+    "name": "Ethan Park",
+    "email": "ethan.park@example.com",
+    "tier": "Premium",
+    "account_status": "active",
+    "joined_at": "2022-02-14",
+    "phone": "+1-555-0106",
+    "recent_activity": [
+      {"type": "order", "detail": "Order ORD-2048 is delayed in transit", "at": "2026-11-17T20:10:00Z"},
+      {"type": "support", "detail": "Asked about a refund for ORD-2047", "at": "2026-11-18T08:02:00Z"}
+    ]
+  }
+]

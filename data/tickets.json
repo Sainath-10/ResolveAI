@@ -1,0 +1,10 @@
+[
+  {"ticket_id": "TKT-3001", "customer_id": "CUST-1001", "order_id": "ORD-2041", "channel": "email", "created_at": "2026-11-18T10:05:00Z", "description": "I was charged twice for order ORD-2041 on my card. Please check what happened and refund the duplicate charge."},
+  {"ticket_id": "TKT-3002", "customer_id": "CUST-1005", "order_id": "ORD-2045", "channel": "chat", "created_at": "2026-11-18T11:20:00Z", "description": "The running shoes from ORD-2045 do not fit. I would like to return them and get a refund."},
+  {"ticket_id": "TKT-3003", "customer_id": "CUST-1003", "order_id": null, "channel": "chat", "created_at": "2026-11-18T07:35:00Z", "description": "I cannot sign in to my account. It says my account is locked and password reset is not working. I need access to track ORD-2043."},
+  {"ticket_id": "TKT-3004", "customer_id": "CUST-1006", "order_id": "ORD-2048", "channel": "email", "created_at": "2026-11-18T12:00:00Z", "description": "My desk lamp from ORD-2048 was supposed to arrive on 16 November but the tracking has not updated. Where is my order?"},
+  {"ticket_id": "TKT-3005", "customer_id": "CUST-1004", "order_id": null, "channel": "email", "created_at": "2026-11-18T13:10:00Z", "description": "My Plus subscription payment failed and the account says past due. Will my subscription be cancelled, and can I update my card?"},
+  {"ticket_id": "TKT-3006", "customer_id": "CUST-1002", "order_id": "ORD-2042", "channel": "email", "created_at": "2026-11-18T09:40:00Z", "description": "The ceramic mugs in ORD-2042 arrived broken. I already opened a claim but have not heard back. What are my options?"},
+  {"ticket_id": "TKT-3007", "customer_id": "CUST-1006", "order_id": "ORD-2047", "channel": "chat", "created_at": "2026-11-18T08:02:00Z", "description": "I want a full refund for the smart watch in ORD-2047. It was delivered in September and I have hardly used it."},
+  {"ticket_id": "TKT-3008", "customer_id": null, "order_id": null, "channel": "chat", "created_at": "2026-11-18T14:20:00Z", "description": "It does not work anymore. Please fix it."}
+]

@@ -1,0 +1,8 @@
+[
+  {"customer_id": "CUST-1001", "plan": "Plus", "status": "active", "amount": 14.99, "currency": "USD", "billing_cycle": "monthly", "started_at": "2025-12-01", "renews_on": "2026-12-01", "cancel_at_period_end": false},
+  {"customer_id": "CUST-1002", "plan": "Pro", "status": "active", "amount": 149.0, "currency": "USD", "billing_cycle": "annual", "started_at": "2025-06-15", "renews_on": "2026-06-15", "cancel_at_period_end": false},
+  {"customer_id": "CUST-1003", "plan": "Basic", "status": "cancelled", "amount": 7.99, "currency": "USD", "billing_cycle": "monthly", "started_at": "2024-02-01", "renews_on": null, "cancel_at_period_end": false},
+  {"customer_id": "CUST-1004", "plan": "Plus", "status": "past_due", "amount": 14.99, "currency": "USD", "billing_cycle": "monthly", "started_at": "2024-03-10", "renews_on": "2026-11-10", "cancel_at_period_end": false},
+  {"customer_id": "CUST-1005", "plan": "Plus", "status": "active", "amount": 14.99, "currency": "USD", "billing_cycle": "monthly", "started_at": "2023-01-05", "renews_on": "2026-12-05", "cancel_at_period_end": true},
+  {"customer_id": "CUST-1006", "plan": "Pro", "status": "active", "amount": 149.0, "currency": "USD", "billing_cycle": "annual", "started_at": "2026-01-02", "renews_on": "2027-01-02", "cancel_at_period_end": false}
+]

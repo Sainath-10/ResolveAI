@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-11-18T14:00:00Z",
+  "services": [
+    {"name": "Storefront", "status": "operational", "uptime_30d": "99.98%"},
+    {"name": "Payments", "status": "operational", "uptime_30d": "99.95%"},
+    {"name": "Login", "status": "degraded", "uptime_30d": "99.72%"},
+    {"name": "Delivery tracking", "status": "operational", "uptime_30d": "99.99%"},
+    {"name": "Email notifications", "status": "operational", "uptime_30d": "99.94%"}
+  ],
+  "incidents": [
+    {"incident_id": "INC-88", "service": "Login", "status": "resolved", "started_at": "2026-11-18T13:20:00Z", "resolved_at": "2026-11-18T13:45:00Z", "summary": "Elevated login failures for a subset of customers."},
+    {"incident_id": "INC-87", "service": "Payments", "status": "resolved", "started_at": "2026-11-17T19:05:00Z", "resolved_at": "2026-11-17T19:40:00Z", "summary": "Slow card authorizations; pending duplicates were voided automatically."}
+  ]
+}
